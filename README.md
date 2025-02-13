@@ -1,7 +1,5 @@
 A 5E compatible system that can be used inside your own Renpy project by downloading this repo and extract it in your "Game" folder
 
-Graphics realized with Stable Diffusion
-
 # LICENSES:
 * The **code** is under GNU GPL 3 License, except for the content of the [sheet_5e folder](sheet_5e/) which is a fork of [this project](https://github.com/tassaron/dnd-character) by [tassaron](https://github.com/tassaron), and it comes with its own license.
 * This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
