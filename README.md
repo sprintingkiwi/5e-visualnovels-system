@@ -1,4 +1,4 @@
-A 5E compatible system that can be used inside your own Renpy project by downloading the "5e_Renpy_Package" archive and extract it in your "Game" folder
+A 5E compatible system that can be used inside your own Renpy project by downloading this repo and extract it in your "Game" folder
 
 Graphics realized with Stable Diffusion
 
